@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "query-string": "^6.2.0",
+    "ws": "^6.0.0"
+  }
+}
